@@ -1,0 +1,2 @@
+#!bin/bash
+echo " one parent folder and one sub folder created inside the c\users\vsowj\gitpractice"
